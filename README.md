@@ -45,8 +45,9 @@ Built with:
 
 ## WordPress.org
 
-This plugin has been submitted to the official WordPress.org Plugin
-Directory and is currently under review.
+## WordPress.org
+
+Designed following WordPress Plugin Directory guidelines and submitted for official distribution through WordPress.org.
 
 ## Author
 
